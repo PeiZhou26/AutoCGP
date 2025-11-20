@@ -150,3 +150,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# customize ignorance
+autocgp-concept/src/lightning_logs/
+autocgp-concept/src/model_checkpoints/
+autocgp-concept/README_my.md
+
