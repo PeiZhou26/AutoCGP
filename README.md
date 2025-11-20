@@ -36,10 +36,7 @@ pip install -e .
 
 ### 1. Concept Discovery
 
-**Note: The code for the Concept Discovery stage is not included in this repository.** You will need to run your concept discovery module separately to generate the following files:
-
-*   `your_concept_path`: The path to the file containing high-level semantic concepts obtained from the concept discovery stage.
-*   `your_generated_mask_path`: The path to the file containing the generated masks used to guide policy learning.
+Check directory `autocgp-concept`
 
 ### 2. Policy Training
 

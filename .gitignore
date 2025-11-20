@@ -155,4 +155,4 @@ cython_debug/
 autocgp-concept/src/lightning_logs/
 autocgp-concept/src/model_checkpoints/
 autocgp-concept/README_my.md
-
+autocgp-concept/tmp
