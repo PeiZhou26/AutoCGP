@@ -36,7 +36,7 @@ pip install -e .
 
 ### 1. Concept Discovery
 
-Check directory `autocgp-concept`
+Check directory [autocgp-concept](https://github.com/PeiZhou26/AutoCGP/tree/main/autocgp-concept)
 
 ### 2. Policy Training
 
