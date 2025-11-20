@@ -17,7 +17,7 @@ conda activate autocgp-concept
 
 #### 📂 Dataset
 
-**[TODO: Add Dataset Instructions]**
+Please download the preprocessed dataset from 🤗[Hugging Face](https://huggingface.co/datasets/SakikoTogawa/MimicGen-AutoCGP_preprocessed).
 
 #### 🚀 Training
 
